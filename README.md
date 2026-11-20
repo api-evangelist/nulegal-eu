@@ -1,4 +1,4 @@
-# nulegal-eu
+# nu:legal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nulegal-eu is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nulegal.eu/
+nu:legal provides AI‑assisted employment law and GDPR services, enabling businesses and individuals to review documents, draft contracts, and obtain legal advice within hours instead of weeks. The platform combines automated document generation with on‑demand human lawyer expertise, offering transparent reasoning, specialist reviews, and rapid turnaround for a wide range of German legal matters.
+
+**Areas:** LegalTech · AI · EmploymentLaw · GDPR · DocumentAutomation · Company
+
+## nu:legal on APIs.io
+
+Everything profiled for nu:legal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nulegal-eu/](https://apis.io/providers/nulegal-eu/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- [nu:legal Anwaelte API](https://apis.io/apis/nulegal-eu/nulegal-eu-anwaelte-api/) — The Anwaelte API from nu:legal — 3 operation(s) for anwaelte.
+- [nu:legal Case API](https://apis.io/apis/nulegal-eu/nulegal-eu-case-api/) — The Case API from nu:legal — 2 operation(s) for case.
+- [nu:legal Case Citations API](https://apis.io/apis/nulegal-eu/nulegal-eu-case-citations-api/) — The Case Citations API from nu:legal — 2 operation(s) for case citations.
+- [nu:legal Case Key API](https://apis.io/apis/nulegal-eu/nulegal-eu-case-key-api/) — The Case Key API from nu:legal — 1 operation(s) for case key.
+- [nu:legal Case Search API](https://apis.io/apis/nulegal-eu/nulegal-eu-case-search-api/) — The Case Search API from nu:legal — 1 operation(s) for case search.
+- [nu:legal Changes API](https://apis.io/apis/nulegal-eu/nulegal-eu-changes-api/) — The Changes API from nu:legal — 1 operation(s) for changes.
+- [nu:legal Check API](https://apis.io/apis/nulegal-eu/nulegal-eu-check-api/) — The Check API from nu:legal — 3 operation(s) for check.
+- [nu:legal Health API](https://apis.io/apis/nulegal-eu/nulegal-eu-health-api/) — The Health API from nu:legal — 1 operation(s) for health.
+- [nu:legal Healthz API](https://apis.io/apis/nulegal-eu/nulegal-eu-healthz-api/) — The Healthz API from nu:legal — 1 operation(s) for healthz.
+- [nu:legal Info API](https://apis.io/apis/nulegal-eu/nulegal-eu-info-api/) — The Info API from nu:legal — 2 operation(s) for info.
+- [nu:legal Law API](https://apis.io/apis/nulegal-eu/nulegal-eu-law-api/) — The Law API from nu:legal — 1 operation(s) for law.
+- [nu:legal Linkify API](https://apis.io/apis/nulegal-eu/nulegal-eu-linkify-api/) — The Linkify API from nu:legal — 1 operation(s) for linkify.
+- [nu:legal Norm API](https://apis.io/apis/nulegal-eu/nulegal-eu-norm-api/) — The Norm API from nu:legal — 3 operation(s) for norm.
+- [nu:legal Nu:legal Deutsches Recht API](https://apis.io/apis/nulegal-eu/nulegal-eu-nu-legal-deutsches-recht-api-api/) — The Nu:legal Deutsches Recht API API from nu:legal — 1 operation(s) for nu:legal deutsches recht api.
+- [nu:legal Platform API](https://apis.io/apis/nulegal-eu/nulegal-eu-platform-api/) — The Platform API from nu:legal — 2 operation(s) for platform.
+- [nu:legal Preview API](https://apis.io/apis/nulegal-eu/nulegal-eu-preview-api/) — The Preview API from nu:legal — 2 operation(s) for preview.
+- [nu:legal Read API](https://apis.io/apis/nulegal-eu/nulegal-eu-read-api/) — The Read API from nu:legal — 5 operation(s) for read.
+- [nu:legal Ready API](https://apis.io/apis/nulegal-eu/nulegal-eu-ready-api/) — The Ready API from nu:legal — 1 operation(s) for ready.
+- [nu:legal Report Missing API](https://apis.io/apis/nulegal-eu/nulegal-eu-report-missing-api/) — The Report Missing API from nu:legal — 1 operation(s) for report missing.
+- [nu:legal Research API](https://apis.io/apis/nulegal-eu/nulegal-eu-research-api/) — The Research API from nu:legal — 1 operation(s) for research.
+- [nu:legal Resolve API](https://apis.io/apis/nulegal-eu/nulegal-eu-resolve-api/) — The Resolve API from nu:legal — 1 operation(s) for resolve.
+- [nu:legal Search API](https://apis.io/apis/nulegal-eu/nulegal-eu-search-api/) — The Search API from nu:legal — 1 operation(s) for search.
+- [nu:legal States API](https://apis.io/apis/nulegal-eu/nulegal-eu-states-api/) — The States API from nu:legal — 1 operation(s) for states.
+- [nu:legal Stats API](https://apis.io/apis/nulegal-eu/nulegal-eu-stats-api/) — The Stats API from nu:legal — 2 operation(s) for stats.
+- [nu:legal Suggest API](https://apis.io/apis/nulegal-eu/nulegal-eu-suggest-api/) — The Suggest API from nu:legal — 1 operation(s) for suggest.
+- [nu:legal Topics API](https://apis.io/apis/nulegal-eu/nulegal-eu-topics-api/) — The Topics API from nu:legal — 1 operation(s) for topics.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [nu:legal Agentic Access](https://apis.io/agentic-access/nulegal-eu/nulegal-eu-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CheckCitationsRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-check-citations-request/)
+- [CheckQuoteRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-check-quote-request/)
+- [LinkifyRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-linkify-request/)
+- [ReportMissingRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-report-missing-request/)
+- [ResearchRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-research-request/)
+- [ResolveRequest](https://apis.io/schemas/nulegal-eu/nulegal-eu-resolve-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nulegal Eu Context](https://apis.io/jsonld/nulegal-eu/nulegal-eu-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [nu:legal API Rules](https://apis.io/rules/nulegal-eu/nulegal-eu-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [nu:legal Domain Security](https://apis.io/security/nulegal-eu/nulegal-eu-domain-security/)
+- [nu:legal Trust Center](https://apis.io/security/nulegal-eu/nulegal-eu-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [nu:legal Plans Pricing](https://apis.io/plans/nulegal-eu/nulegal-eu-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nulegal.eu/)
+- [Documentation](https://nulegal.eu/en/)
+- [Pricing](https://nulegal.eu/en/pricing/)
+- [Blog](https://nulegal.eu/en/blog/)
+- [Security](https://nulegal.eu/security/)
+- [Compliance](https://nulegal.eu/security/)
+- [Terms of service](https://nulegal.eu/en/legal/terms/)
+- [Privacy policy](https://nulegal.eu/en/legal/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 46.8** — developing · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 54.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 61.3 |
+
+**Agent readiness 32.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nulegal-eu/](https://apis.io/providers/nulegal-eu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for nu:legal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nulegal-eu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
